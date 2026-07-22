@@ -39,5 +39,5 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/soopay.git](https://github.com/sakib70/soopay.git)
+git clone https://github.com/sakib70/soopay.git
 cd soopay
