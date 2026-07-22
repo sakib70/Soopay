@@ -20,7 +20,7 @@
 
 ## 🚀 Key Features
 
-* **Localized Abstraction:** No more manual math. Input 500 BDT or 100,000 VND, and Soopay calculates the exact USDC required based on live market rates.
+* **Localized Abstraction:** No more manual math. Input your local currency ammount like 500 BDT or 100,000 VND, and Soopay calculates the exact USDC required based on live market rates.
 * **Live Oracle Integration:** Powered by real-time exchange rate APIs to ensure 100% accuracy in global fiat-to-USDC conversions.
 * **Arc Native Performance:** Optimized for Arc Network's sub-second finality and native USDC gas mechanism.
 * **Super UI/UX:** A professional, monochromatic blue aesthetic (`#298DFF`) featuring fluid **Framer Motion** animations and a high-trust "Fintech" feel.
