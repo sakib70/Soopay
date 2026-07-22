@@ -15,10 +15,10 @@
 
 ---
 
-## 💎 The Vision
+## The Vision
 **Soopay** is a high-end decentralized application (DApp) designed to strip away the complexity of crypto transactions. By providing a **Currency Abstraction Layer**, it allows users across Bangladesh, India, Vietnam, Nigeria, and beyond to send payments using the mental model of their local currency, while the underlying settlement happens instantly in **USDC** on the **Arc Network**.
 
-## 🚀 Key Features
+## Key Features
 
 * **Localized Abstraction:** No more manual math. Input your local currency ammount like 500 BDT or 100,000 VND, and Soopay calculates the exact USDC required based on live market rates.
 * **Live Oracle Integration:** Powered by real-time exchange rate APIs to ensure 100% accuracy in global fiat-to-USDC conversions.
