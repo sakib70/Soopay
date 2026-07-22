@@ -1,4 +1,4 @@
-# <p align="center"><img src="public/logo.png" width="80" alt="Soopay Logo"></p>
+# <p align="center"><img src="https://github.com/sakib70/Soopay/blob/main/logo.png" width="80" alt="Soopay Logo"></p>
 # <p align="center">SOOPAY</p>
 
 <p align="center">
